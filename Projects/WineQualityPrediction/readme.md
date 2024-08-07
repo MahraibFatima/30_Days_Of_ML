@@ -4,6 +4,9 @@
 
 Wine quality prediction is a significant task within the wine industry, impacting both production processes and consumer satisfaction. Red wine, in particular, is valued for its complex flavors and aromas, which are influenced by various chemical properties. Predicting the quality of red wine based on its chemical composition can aid producers in ensuring consistent quality and improving production techniques.
 
+### Dataset link 
+https://www.kaggle.com/datasets/yasserh/wine-quality-dataset
+
 ## Problem Statement
 
 The primary challenge is to accurately predict the quality of red wine using its chemical properties. This involves dealing with a dataset that includes various chemical attributes such as acidity, sugar levels, pH, and others, which collectively influence the wine's taste, aroma, and overall quality. Accurate predictions can help winemakers optimize their processes, leading to better quality control and enhanced consumer satisfaction.
